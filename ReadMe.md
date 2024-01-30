@@ -16,4 +16,10 @@
 
 ## 使用方法
 
-见各 dll 提供的头文件。
+命令行：./MemberTransfer.exe idcard name output
+
+idcard：卡号
+
+name：姓名
+
+output：输出文件名
